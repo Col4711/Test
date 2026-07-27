@@ -1,3 +1,4 @@
 # Test
-This is just a simple test-page
-Test2
+This is just a simple test-page  
+  
+  Lorem Ipsum another Update
